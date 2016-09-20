@@ -1,0 +1,43 @@
+﻿Hello
+Hello Jarvis
+Goodbye
+Goodbye Jarvis
+Close
+Close Jarvis
+Jarvis
+What time is it
+What day is it
+Whats the date
+Whats todays date
+Hows the weather
+Whats the weather like
+Whats it like outside
+What will tomorrow be like
+Whats tomorrows forecast
+Whats tomorrow like
+Whats the temperature outside
+Switch Window
+Reset
+Out of the way
+Come back
+Show commands
+Hide commands
+Shutdown
+Log off
+Restart
+Abort
+PIC10f200
+PIC10f200-e/mc
+Please search for PIC10f200-e/mc
+Oh God
+JARVIS I want Roma
+Roma I want JARVIS
+Roma
+Hide All Windows
+Show All Windows
+Jarvis Please be respectful
+I'm getting bored
+I want some knowledge
+I dont like my job
+Activate talking mode
+Deactivate talking mode

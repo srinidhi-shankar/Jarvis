@@ -1,0 +1,145 @@
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\bin\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
+C:\Users\Michael Wilson\Desktop\New folder\JARVIS\JARVIS\bin\Debug\Commands.txt
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\Commands.txt
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.application
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csprojResolveAssemblyReference.cache
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csproj.GenerateResource.Cache
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+C:\Users\gitonga\Downloads\JARVISC#\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\JARVIS.exe.config
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVIS.csprojResolveAssemblyReference.cache
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVIS.csproj.GenerateResource.Cache
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVIS.exe
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVIS.pdb
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\Commands.txt
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\JARVIS.exe.manifest
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\JARVIS.application
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\JARVIS.exe
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\JARVIS.pdb
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\obj\x86\Debug\JARVIS.application
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\MCHPHeaderFooter.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\Microchip.Application.Authenticate.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\Microchip.Architecture.Common.Data.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\Microchip.Architecture.Common.Exception.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\Microchip.Configuration.Settings.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\Microchip.Multilingual.Utility.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\wwwHeaderFooter.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\NAudio.dll
+F:\IISC\Projects\NasaSpaceApps2015-master\JARVIS\bin\Debug\NAudio.xml
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Commands.txt
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\JARVIS.application
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\MCHPHeaderFooter.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Microchip.Application.Authenticate.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Microchip.Architecture.Common.Data.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Microchip.Architecture.Common.Exception.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Microchip.Configuration.Settings.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Microchip.Multilingual.Utility.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\NAudio.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\wwwHeaderFooter.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\NAudio.xml
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csproj.GenerateResource.Cache
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+F:\IISC\Projects\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csprojResolveAssemblyReference.cache
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\CPNS.txt
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Newtonsoft.Json.dll
+F:\IISC\Projects\JARVIS\JARVIS\bin\Debug\Newtonsoft.Json.xml
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Commands.txt
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\CPNS.txt
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.application
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\MCHPHeaderFooter.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Microchip.Application.Authenticate.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Microchip.Architecture.Common.Data.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Microchip.Architecture.Common.Exception.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Microchip.Configuration.Settings.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Microchip.Multilingual.Utility.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\NAudio.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Newtonsoft.Json.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\wwwHeaderFooter.dll
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\NAudio.xml
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\Newtonsoft.Json.xml
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csprojResolveAssemblyReference.cache
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csproj.GenerateResource.Cache
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+E:\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\ChatterBotAPI.pdb
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\CUETools.Codecs.pdb
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\CUETools.Codecs.FLAKE.pdb
+E:\JARVIS\JARVIS\JARVIS\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe.config
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.pdb
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csprojResolveAssemblyReference.cache
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVISV2.Form1.resources
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.Properties.Resources.resources
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.csproj.GenerateResource.Cache
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\Commands.txt
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\CPNS.txt
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe.manifest
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.application
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.exe
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\JARVIS.pdb
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\NAudio.dll
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\Newtonsoft.Json.dll
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\ChatterBotAPI.pdb
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\CUETools.Codecs.pdb
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\CUETools.Codecs.FLAKE.pdb
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\NAudio.xml
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\Newtonsoft.Json.xml
+E:\gitProjects\JARVIS\JARVIS\JARVIS\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.exe.manifest
+E:\gitProjects\JARVIS\JARVIS\JARVIS\obj\x86\Debug\JARVIS.application
